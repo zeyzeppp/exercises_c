@@ -4,7 +4,7 @@
 
 int fibo(int);
 
-int main83()
+int main84()
 {
     int y;
     printf("Please enter a number: ");
