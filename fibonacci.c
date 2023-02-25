@@ -8,7 +8,8 @@ int main85()
     printf("Please enter a number: ");
     scanf("%d", &x);
     printf("%d", fibonacci(x));
-
+    
+    return 0;
 }
 int fibonacci(int x)
 {
