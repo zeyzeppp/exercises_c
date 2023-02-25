@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdio.h>
 
-int main82()
+int main83()
 {
     int a[5];
     int i;
