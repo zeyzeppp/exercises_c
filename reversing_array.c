@@ -16,4 +16,6 @@ int main83()
     {
         printf("%d", a[4 - i]);
     }
+    
+    return 0;
 }
