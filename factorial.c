@@ -9,6 +9,8 @@ int main87()
     int x;
     scanf("%d", &x);
     printf("The factorial of the %d is %d", x, fact(x));
+    
+    return 0;
 }
 
 int fact(int x)
