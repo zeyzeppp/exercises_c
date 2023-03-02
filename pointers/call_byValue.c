@@ -4,7 +4,7 @@
 //changing values
 int change(int, int);
 
-int main()
+int main77()
 {
     int x = 2003;
     int y = 2023;
