@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 
-/*.Girilecek 10 adet sayıyı bir diziye aktararak bu dizideki sayıların
-ortalamasını bulduran programıyazınız. */
+/*.Girilecek 10 adet sayÄ±yÄ± bir diziye aktararak bu dizideki sayÄ±larÄ±n
+ortalamasÄ±nÄ± bulduran programÄ±yazÄ±nÄ±z. */
 
 
 int main()
@@ -22,4 +22,6 @@ int main()
 
       ort = sum/10;
       printf("girilen sayilarin ortalamasi = %f", ort);
+      
+      return 0;
 }
