@@ -1,12 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 /*.Girilecek 10 adet sayıyı bir diziye aktararak bu dizideki sayıların
 ortalamasını bulduran programıyazınız. */
 
-
-int main()
+int main59()
 {
       int a[10];
       int i;
