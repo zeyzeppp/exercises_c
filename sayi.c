@@ -4,7 +4,7 @@
 
 
 int fact(int);
-int main()
+int main57()
 {
       int sayi;
       printf("bir sayi giriniz: ");
