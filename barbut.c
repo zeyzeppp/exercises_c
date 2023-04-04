@@ -4,6 +4,8 @@
 
 //barbut oyunu
 
+//void specifies that the function takes no parameters
+
 int barbut(void);
 
 int main54()
