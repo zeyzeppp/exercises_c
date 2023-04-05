@@ -19,4 +19,6 @@ int main46()
       }
 
       printf("%d sayisi sayilar dizisindeki %d elemandan kucuktur.", sayi, count);
+      
+      return 0;
 }
