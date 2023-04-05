@@ -63,7 +63,7 @@ int main47()
     }
     printf("%d", -result);
 
-
+    return 0;
 }
 
 //06.04.2023 01:52 ---- beynim yandi:)
