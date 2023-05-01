@@ -1,28 +1,38 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main70()
+
+int power(int, int);
+
+int main28()
 {
-    int num;
-    int i;
-    int count = 0;
-    printf("Please enter a number: ");
-    scanf("%d", &num);
 
-    for(i = 5; i < num; i*=5)
-    {
-        if(num % i != 0)
-        {
-            count++;
-        }
-    }
-    if(count == 0)
-    {
-        printf("%d is power of 5.", num);
-    }
-    else
-    {
-        printf("%d is not power of 5.", num);
-    }
+      int taban;
+      int kuvvet;
 
+      printf("taban kismini giriniz: ");
+      scanf("%d", &taban);
+
+
+      printf("kuvvet kismini giriniz: ");
+      scanf("%d", &kuvvet);
+
+      printf("sonuc = %d", power(taban, kuvvet));
+
+
+
+}
+
+int power(int x, int y)
+{
+      int i;
+      int result = 1;
+
+      for(i = 1; i <= y; i++)
+      {
+            result = result * x;
+
+      }
+
+      return result;
 }
