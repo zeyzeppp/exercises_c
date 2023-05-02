@@ -28,6 +28,6 @@ int main26()
 
       printf("%d", sayac);
 
-
+      return 0;
 
 }
