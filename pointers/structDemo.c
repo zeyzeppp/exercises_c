@@ -13,7 +13,7 @@ typedef struct
 
 }insan;
 
-int main()
+int main21()
 {
       insan zeynep;
       zeynep.isim = "zeynep";
